@@ -17,9 +17,7 @@ Hi, I'm Navaneetham Venusaran, a Full Stack Developer 🚀 from Singapore, curre
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning GraphQL and Redis; 
-- 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@venusaran91(https://twitter.com/venusaran91);
 - 📝[Resume](https://drive.google.com/file/d/1ddBCqPfvN6xG-sLgzSUZahSN00V_edHZ/view?usp=sharing)
 

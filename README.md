@@ -19,7 +19,7 @@ Hi, I'm Navaneetham Venusaran, a Full Stack Developer 🚀 from Singapore, curre
 
 - 🌱 I’m currently learning GraphQL and Redis; 
 - 📫 How to reach me: [@venusaran91(https://twitter.com/venusaran91);
-- 📝[Resume](https://drive.google.com/file/d/1ddBCqPfvN6xG-sLgzSUZahSN00V_edHZ/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1ddBCqPfvN6xG-sLgzSUZahSN00V_edHZ/view?usp=sharing);
 
 **Languages and Tools:**  
 
@@ -40,16 +40,6 @@ JSON         1 hr 1 min      ██░░░░░░░░░░░░░░░
 Docker     17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 ```
 <!--END_SECTION:waka-->
-
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  4,763 Karma Points           
-🌸  Completed 7 tasks today           
-🗓  Completed 7 tasks this week           
-✅  Completed 297 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
 
 <details>
 <summary>📈 My GitHub Stats</summary>

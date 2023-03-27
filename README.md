@@ -19,7 +19,7 @@ Hi, I'm Navaneetham Venusaran, a Full Stack Developer 🚀 from Singapore, curre
 
 - 🌱 I’m currently playing around with Kubernetes
 - 📫 How to reach me: [@venusaran91(https://twitter.com/venusaran91)]
-- 📝[Resume](https://drive.google.com/file/d/1ddBCqPfvN6xG-sLgzSUZahSN00V_edHZ/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1hdDPnMglDIqI2ZqCrrnYqFQppW_kApLe/view?usp=share_link)
 
 **Languages and Tools:**  
 
